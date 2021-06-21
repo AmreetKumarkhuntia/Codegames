@@ -1,0 +1,6 @@
+﻿  V1.c
+E:\Coding\codeforces\Way Too Long Words\V1.c(11,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+E:\Coding\codeforces\Way Too Long Words\V1.c(11,11): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+E:\Coding\codeforces\Way Too Long Words\V1.c(11,11): message : the missing variadic argument 2 is required by format string '%s'
+E:\Coding\codeforces\Way Too Long Words\V1.c(11,11): message : this argument is used as a buffer size
+  Way Too Long Words.vcxproj -> E:\Coding\codeforces\Way Too Long Words\Debug\Way Too Long Words.exe
