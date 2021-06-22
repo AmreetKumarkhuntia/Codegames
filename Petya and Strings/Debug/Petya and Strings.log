@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\ak\source\repos\Petya and Strings\Source.cpp(9,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ak\source\repos\Petya and Strings\Source.cpp(17,20): warning C4018: '<': signed/unsigned mismatch
+  Petya and Strings.vcxproj -> C:\Users\ak\source\repos\Petya and Strings\Debug\Petya and Strings.exe
