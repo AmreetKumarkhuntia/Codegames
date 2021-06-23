@@ -1,0 +1,5 @@
+﻿  Source.cpp
+E:\Coding\codeforces\Helpful Maths\Source.cpp(7,20): warning C4018: '<': signed/unsigned mismatch
+E:\Coding\codeforces\Helpful Maths\Source.cpp(9,21): warning C4018: '<': signed/unsigned mismatch
+E:\Coding\codeforces\Helpful Maths\Source.cpp(20,20): warning C4018: '<': signed/unsigned mismatch
+  Helpful Maths.vcxproj -> E:\Coding\codeforces\Helpful Maths\Debug\Helpful Maths.exe
