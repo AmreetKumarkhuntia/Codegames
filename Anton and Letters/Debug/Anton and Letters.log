@@ -1,0 +1,5 @@
+﻿  Source.cpp
+E:\Github\Codegames\Codegames\Anton and Letters\Source.cpp(9,23): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Codegames\Codegames\Anton and Letters\Source.cpp(20,23): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Codegames\Codegames\Anton and Letters\Source.cpp(23,26): warning C4018: '<': signed/unsigned mismatch
+  Anton and Letters.vcxproj -> E:\Github\Codegames\Codegames\Anton and Letters\Debug\Anton and Letters.exe
