@@ -1,4 +1,4 @@
 ﻿  Source.cpp
 E:\Github\Codegames\Codegames\Divisibility Problem\Source.cpp(7,23): warning C4018: '<': signed/unsigned mismatch
-E:\Github\Codegames\Codegames\Divisibility Problem\Source.cpp(16,23): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Codegames\Codegames\Divisibility Problem\Source.cpp(20,23): warning C4018: '<': signed/unsigned mismatch
   Divisibility Problem.vcxproj -> E:\Github\Codegames\Codegames\Divisibility Problem\Debug\Divisibility Problem.exe
