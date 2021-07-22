@@ -1,29 +1,25 @@
 #include<iostream>
 #include<cstring>
 using namespace std;
-class check {
-public:
-	int n;
-	char* c = new char[n];
-};
 int main()
 {
-	check sub_1;
-	cin >> sub_1.n;
-	cin >> sub_1.c;
+	int n;
+	cin >> n;
+	char* c = new char[n];
+	cin >> c;
 	int a = 0;
-	if (sub_1.n >= 26)
+	if (n >= 26)
 	{
-		for (int i = 0; i < sub_1.n; i++)
+		for (int i = 0; i < n; i++)
 		{
 			int t = 0;
-			for (int j = i + 1; j < sub_1.n; j++)
+			for (int j = i + 1; j < n; j++)
 			{
-				if(sub_1.c[i]<96)
-					sub_1.c[i] = tolower(sub_1.c[i]);
-				if(sub_1.c[j]<96)
-					sub_1.c[j] = tolower(sub_1.c[j]);
-				if (sub_1.c[i] == sub_1.c[j])
+				if(c[i]<96)
+					c[i] = tolower(c[i]);
+				if(c[j]<96)
+					c[j] = tolower(c[j]);
+				if (c[i] == c[j])
 				{
 					t = 1;
 					break;
