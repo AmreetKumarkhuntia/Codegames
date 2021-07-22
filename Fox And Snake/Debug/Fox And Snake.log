@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\Github\Codegames\Codegames\Fox And Snake\Source.cpp(8,23): warning C4018: '<': signed/unsigned mismatch
+  Fox And Snake.vcxproj -> E:\Github\Codegames\Codegames\Fox And Snake\Debug\Fox And Snake.exe
