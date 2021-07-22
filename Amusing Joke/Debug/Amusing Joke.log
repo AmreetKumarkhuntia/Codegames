@@ -1,0 +1,5 @@
+﻿  Source.cpp
+E:\Github\Codegames\Codegames\Amusing Joke\Source.cpp(17,23): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Codegames\Codegames\Amusing Joke\Source.cpp(21,24): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Codegames\Codegames\Amusing Joke\Source.cpp(53,23): warning C4018: '<': signed/unsigned mismatch
+  Amusing Joke.vcxproj -> E:\Github\Codegames\Codegames\Amusing Joke\Debug\Amusing Joke.exe
