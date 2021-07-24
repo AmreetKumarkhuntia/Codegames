@@ -1,0 +1,5 @@
+﻿  Source.cpp
+E:\Github\Codegames\Codegames\Remove Smallest\Source.cpp(8,23): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Codegames\Codegames\Remove Smallest\Source.cpp(13,24): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Codegames\Codegames\Remove Smallest\Source.cpp(55,23): warning C4018: '<': signed/unsigned mismatch
+  Remove Smallest.vcxproj -> E:\Github\Codegames\Codegames\Remove Smallest\Debug\Remove Smallest.exe
