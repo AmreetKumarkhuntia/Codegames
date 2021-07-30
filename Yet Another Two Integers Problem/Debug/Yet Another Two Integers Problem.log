@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\Github\Codegames\Codegames\Yet Another Two Integers Problem\Source.cpp(8,23): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Codegames\Codegames\Yet Another Two Integers Problem\Source.cpp(25,23): warning C4018: '<': signed/unsigned mismatch
+  Yet Another Two Integers Problem.vcxproj -> E:\Github\Codegames\Codegames\Yet Another Two Integers Problem\Debug\Yet Another Two Integers Problem.exe
