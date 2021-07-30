@@ -16,7 +16,7 @@ int main()
 			no2 = t;
 		}
 		int minimum_steps;
-		if ((no2 - no1)/10 == 0)
+		if ((no2 - no1)%10 == 0)
 			minimum_steps = (no2 - no1)/10;
 		else
 			minimum_steps = (no2 - no1) / 10 + 1;
