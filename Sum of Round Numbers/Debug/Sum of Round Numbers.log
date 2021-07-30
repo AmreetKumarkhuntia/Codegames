@@ -1,0 +1,5 @@
+﻿  Source.cpp
+E:\Github\Codegames\Codegames\Sum of Round Numbers\Source.cpp(9,23): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Codegames\Codegames\Sum of Round Numbers\Source.cpp(13,23): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Codegames\Codegames\Sum of Round Numbers\Source.cpp(20,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Sum of Round Numbers.vcxproj -> E:\Github\Codegames\Codegames\Sum of Round Numbers\Debug\Sum of Round Numbers.exe
