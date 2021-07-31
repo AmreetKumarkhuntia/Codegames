@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Police Recruits", "Police Recruits.vcxproj", "{D7C7420A-AD09-4C44-856D-BF78BC3B117F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7C7420A-AD09-4C44-856D-BF78BC3B117F}.Debug|x64.ActiveCfg = Debug|x64
+		{D7C7420A-AD09-4C44-856D-BF78BC3B117F}.Debug|x64.Build.0 = Debug|x64
+		{D7C7420A-AD09-4C44-856D-BF78BC3B117F}.Debug|x86.ActiveCfg = Debug|Win32
+		{D7C7420A-AD09-4C44-856D-BF78BC3B117F}.Debug|x86.Build.0 = Debug|Win32
+		{D7C7420A-AD09-4C44-856D-BF78BC3B117F}.Release|x64.ActiveCfg = Release|x64
+		{D7C7420A-AD09-4C44-856D-BF78BC3B117F}.Release|x64.Build.0 = Release|x64
+		{D7C7420A-AD09-4C44-856D-BF78BC3B117F}.Release|x86.ActiveCfg = Release|Win32
+		{D7C7420A-AD09-4C44-856D-BF78BC3B117F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A53F611-8C1E-4526-BDB6-3EF1B5F187B3}
+	EndGlobalSection
+EndGlobal
