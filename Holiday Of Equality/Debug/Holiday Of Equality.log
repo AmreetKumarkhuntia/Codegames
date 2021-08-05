@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\Github\Codegames\Codegames\Holiday Of Equality\Source.cpp(8,23): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Codegames\Codegames\Holiday Of Equality\Source.cpp(17,23): warning C4018: '<': signed/unsigned mismatch
+  Holiday Of Equality.vcxproj -> E:\Github\Codegames\Codegames\Holiday Of Equality\Debug\Holiday Of Equality.exe
