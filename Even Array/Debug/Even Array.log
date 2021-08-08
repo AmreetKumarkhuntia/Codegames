@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\Github\Codegames\Codegames\Even Array\Source.cpp(7,23): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Codegames\Codegames\Even Array\Source.cpp(12,24): warning C4018: '<': signed/unsigned mismatch
+  Even Array.vcxproj -> E:\Github\Codegames\Codegames\Even Array\Debug\Even Array.exe
