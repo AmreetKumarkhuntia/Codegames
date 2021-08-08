@@ -1,0 +1,8 @@
+﻿  Source.cpp
+E:\Github\Codegames\Codegames\Two Arrays And Swaps\Source.cpp(8,39): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Codegames\Codegames\Two Arrays And Swaps\Source.cpp(14,24): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Codegames\Codegames\Two Arrays And Swaps\Source.cpp(18,24): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Codegames\Codegames\Two Arrays And Swaps\Source.cpp(23,24): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Codegames\Codegames\Two Arrays And Swaps\Source.cpp(30,24): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Codegames\Codegames\Two Arrays And Swaps\Source.cpp(48,24): warning C4018: '<': signed/unsigned mismatch
+  Two Arrays And Swaps.vcxproj -> E:\Github\Codegames\Codegames\Two Arrays And Swaps\Debug\Two Arrays And Swaps.exe
