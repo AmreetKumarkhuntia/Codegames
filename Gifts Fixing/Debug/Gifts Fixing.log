@@ -1,0 +1,6 @@
+﻿  Source.cpp
+E:\Github\Codegames\Codegames\Gifts Fixing\Source.cpp(7,37): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Codegames\Codegames\Gifts Fixing\Source.cpp(14,24): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Codegames\Codegames\Gifts Fixing\Source.cpp(24,24): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Codegames\Codegames\Gifts Fixing\Source.cpp(34,24): warning C4018: '<': signed/unsigned mismatch
+  Gifts Fixing.vcxproj -> E:\Github\Codegames\Codegames\Gifts Fixing\Debug\Gifts Fixing.exe
