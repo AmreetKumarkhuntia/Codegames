@@ -1,0 +1,6 @@
+﻿  Source.cpp
+E:\Github\Codegames\Codegames\Honest Coach\Source.cpp(7,39): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Codegames\Codegames\Honest Coach\Source.cpp(12,24): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Codegames\Codegames\Honest Coach\Source.cpp(17,24): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Codegames\Codegames\Honest Coach\Source.cpp(19,27): warning C4018: '<': signed/unsigned mismatch
+  Honest Coach.vcxproj -> E:\Github\Codegames\Codegames\Honest Coach\Debug\Honest Coach.exe
