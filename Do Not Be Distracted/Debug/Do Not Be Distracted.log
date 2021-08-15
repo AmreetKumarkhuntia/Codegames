@@ -1,0 +1,5 @@
+﻿  Source.cpp
+E:\Github\Codegames\Codegames\Do Not Be Distracted\Source.cpp(7,29): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Codegames\Codegames\Do Not Be Distracted\Source.cpp(12,24): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Codegames\Codegames\Do Not Be Distracted\Source.cpp(17,24): warning C4018: '<': signed/unsigned mismatch
+  Do Not Be Distracted.vcxproj -> E:\Github\Codegames\Codegames\Do Not Be Distracted\Debug\Do Not Be Distracted.exe
