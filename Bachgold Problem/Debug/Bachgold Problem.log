@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\Github\Codegames\Codegames\Bachgold Problem\Source.cpp(9,24): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Codegames\Codegames\Bachgold Problem\Source.cpp(17,24): warning C4018: '<': signed/unsigned mismatch
+  Bachgold Problem.vcxproj -> E:\Github\Codegames\Codegames\Bachgold Problem\Debug\Bachgold Problem.exe
