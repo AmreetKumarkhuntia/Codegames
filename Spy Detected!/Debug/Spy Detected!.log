@@ -1,0 +1,5 @@
+﻿  Source.cpp
+E:\Github\Codegames\Codegames\Spy Detected!\Source.cpp(4,17): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\Github\Codegames\Codegames\Spy Detected!\Source.cpp(7,37): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Codegames\Codegames\Spy Detected!\Source.cpp(12,24): warning C4018: '<': signed/unsigned mismatch
+  Spy Detected!.vcxproj -> E:\Github\Codegames\Codegames\Spy Detected!\Debug\Spy Detected!.exe
