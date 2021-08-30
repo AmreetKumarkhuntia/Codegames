@@ -1,0 +1,8 @@
+﻿  Source.cpp
+E:\Github\Codegames\Codegames\Restore the Permutation by Merger\Source.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\Github\Codegames\Codegames\Restore the Permutation by Merger\Source.cpp(8,37): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Codegames\Codegames\Restore the Permutation by Merger\Source.cpp(15,24): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Codegames\Codegames\Restore the Permutation by Merger\Source.cpp(21,24): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Codegames\Codegames\Restore the Permutation by Merger\Source.cpp(24,25): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Codegames\Codegames\Restore the Permutation by Merger\Source.cpp(38,24): warning C4018: '<': signed/unsigned mismatch
+  Restore the Permutation by Merger.vcxproj -> E:\Github\Codegames\Codegames\Restore the Permutation by Merger\Debug\Restore the Permutation by Merger.exe
