@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\Github\Codegames\Codegames\HQ9+\HQ9+\Source.cpp(7,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  HQ9+.vcxproj -> E:\Github\Codegames\Codegames\HQ9+\x64\Debug\HQ9+.exe

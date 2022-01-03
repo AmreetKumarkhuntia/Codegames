@@ -1,0 +1,6 @@
+﻿  Source.cpp
+E:\Github\Codegames\Codegames\Ordinary Numbers\Ordinary Numbers\Source.cpp(14,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Github\Codegames\Codegames\Ordinary Numbers\Ordinary Numbers\Source.cpp(15,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Github\Codegames\Codegames\Ordinary Numbers\Ordinary Numbers\Source.cpp(18,42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Github\Codegames\Codegames\Ordinary Numbers\Ordinary Numbers\Source.cpp(21,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Ordinary Numbers.vcxproj -> E:\Github\Codegames\Codegames\Ordinary Numbers\x64\Debug\Ordinary Numbers.exe

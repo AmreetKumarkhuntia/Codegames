@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "31bae2e8-ab71-4bd9-855a-fa1163cda5cf": {
+      "ProjectGuid": "31bae2e8-ab71-4bd9-855a-fa1163cda5cf",
+      "DisplayName": "Die Roll",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

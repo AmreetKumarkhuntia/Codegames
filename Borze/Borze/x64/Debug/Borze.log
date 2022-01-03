@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\Github\Codegames\Codegames\Borze\Borze\Source.cpp(8,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Borze.vcxproj -> E:\Github\Codegames\Codegames\Borze\x64\Debug\Borze.exe

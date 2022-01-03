@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ec46969a-4eba-4fcb-9c85-8c59307fcd13": {
+      "ProjectGuid": "ec46969a-4eba-4fcb-9c85-8c59307fcd13",
+      "DisplayName": "Stable Arrangement of Rooks",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

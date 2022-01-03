@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\Github\Codegames\Codegames\Football\Football\Source.cpp(6,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Football.vcxproj -> E:\Github\Codegames\Codegames\Football\x64\Debug\Football.exe

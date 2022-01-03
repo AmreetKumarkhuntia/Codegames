@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2d0565bb-cb9d-4e8d-bb15-f09ffe1d800b": {
+      "ProjectGuid": "2d0565bb-cb9d-4e8d-bb15-f09ffe1d800b",
+      "DisplayName": "Robot Cleaner",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
