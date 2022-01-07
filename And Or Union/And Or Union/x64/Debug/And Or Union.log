@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\Github\Codegames\Codegames\And Or Union\And Or Union\Source.cpp(44,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  And Or Union.vcxproj -> E:\Github\Codegames\Codegames\And Or Union\x64\Debug\And Or Union.exe
