@@ -12,10 +12,14 @@ int main(void) {
 	for (int i = 0; i < length; i++)
 	{
 		bool itswub = false;
-		if (ar.at(i) == 'W' && i <= length-2) {
+		if (ar.at(i) == 'W' && i < length-2) {
 			if (ar.at(i + 1) == 'U' && ar.at(i + 2) == 'B') {
 				itswub = true;
 				original_song.push_back(32);
+			}
+			else
+			{
+				original_song.push_back(ar.at(i));
 			}
 		}
 		else
