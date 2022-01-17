@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\Github\Codegames\Codegames\Ilya and Bank Account\Source.cpp(8,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Ilya and Bank Account.vcxproj -> E:\Github\Codegames\Codegames\Ilya and Bank Account\x64\Debug\Ilya and Bank Account.exe

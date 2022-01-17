@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "08d1c233-cb63-45d6-b685-a74a0647f0fd": {
+      "ProjectGuid": "08d1c233-cb63-45d6-b685-a74a0647f0fd",
+      "DisplayName": "Game With Sticks",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
