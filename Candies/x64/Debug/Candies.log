@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\Github\Codegames\Codegames\Candies\Source.cpp(11,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Candies.vcxproj -> E:\Github\Codegames\Codegames\Candies\x64\Debug\Candies.exe

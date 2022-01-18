@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dac3394d-dc56-4f5b-ae3c-73d9f8bdd130": {
+      "ProjectGuid": "dac3394d-dc56-4f5b-ae3c-73d9f8bdd130",
+      "DisplayName": "Odd Divisor",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

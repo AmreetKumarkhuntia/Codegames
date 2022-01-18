@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d30c0e5a-af8c-492f-9e18-9bdd52451a3e": {
+      "ProjectGuid": "d30c0e5a-af8c-492f-9e18-9bdd52451a3e",
+      "DisplayName": "Candies",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

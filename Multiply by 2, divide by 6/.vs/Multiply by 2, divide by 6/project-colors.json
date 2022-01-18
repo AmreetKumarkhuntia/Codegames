@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0bef5503-1751-42af-82f7-c9e6f8b935fe": {
+      "ProjectGuid": "0bef5503-1751-42af-82f7-c9e6f8b935fe",
+      "DisplayName": "Multiply by 2, divide by 6",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
