@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "61a68ab7-1f29-4bb3-8fcf-7f4083c7cf99": {
+      "ProjectGuid": "61a68ab7-1f29-4bb3-8fcf-7f4083c7cf99",
+      "DisplayName": "An Interesting Sequence",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

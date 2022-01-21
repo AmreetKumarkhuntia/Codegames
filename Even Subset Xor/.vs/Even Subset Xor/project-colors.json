@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "01e78d64-ea31-4080-b3ad-e858cf64b8fe": {
+      "ProjectGuid": "01e78d64-ea31-4080-b3ad-e858cf64b8fe",
+      "DisplayName": "Even Subset Xor",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

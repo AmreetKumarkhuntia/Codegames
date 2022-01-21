@@ -1,0 +1,7 @@
+﻿  Source.cpp
+E:\Github\Codegames\Codegames\An Interesting Sequence\Source.cpp(30,9): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=int64_t
+          ]
+  An Interesting Sequence.vcxproj -> E:\Github\Codegames\Codegames\An Interesting Sequence\x64\Debug\An Interesting Sequence.exe
