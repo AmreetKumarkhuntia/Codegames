@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "99cbcd2c-1f41-4eb1-be56-4e6b035b387b": {
+      "ProjectGuid": "99cbcd2c-1f41-4eb1-be56-4e6b035b387b",
+      "DisplayName": "Case of the Zeros and Ones",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

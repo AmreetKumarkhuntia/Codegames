@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\Github\Codegames\Codegames\Case of the Zeros and Ones\Source.cpp(40,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Github\Codegames\Codegames\Case of the Zeros and Ones\Source.cpp(51,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Case of the Zeros and Ones.vcxproj -> E:\Github\Codegames\Codegames\Case of the Zeros and Ones\x64\Debug\Case of the Zeros and Ones.exe

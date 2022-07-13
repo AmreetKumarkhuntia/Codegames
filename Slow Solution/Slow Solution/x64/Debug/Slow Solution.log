@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\Github\Codegames\Codegames\Slow Solution\Slow Solution\Source.cpp(12,14): warning C4244: '=': conversion from 'double' to 'unsigned __int64', possible loss of data
+E:\Github\Codegames\Codegames\Slow Solution\Slow Solution\Source.cpp(16,14): warning C4244: '=': conversion from 'double' to 'unsigned __int64', possible loss of data
+  Slow Solution.vcxproj -> E:\Github\Codegames\Codegames\Slow Solution\x64\Debug\Slow Solution.exe

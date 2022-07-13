@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "037d9e26-0479-4ca7-9c0c-64dd78bcef66": {
+      "ProjectGuid": "037d9e26-0479-4ca7-9c0c-64dd78bcef66",
+      "DisplayName": "Keyboard",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
